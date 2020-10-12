@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application1</string>
+    <string name="Titulo">My Application1</string>
+    <string name="editapp">Editapp</string>
+    <string name="nombre_completo">Nombre Completo</string>
+    <string name="email">Email</string>
+</resources>
